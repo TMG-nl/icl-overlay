@@ -10,7 +10,7 @@ RESTRICT_PYTHON_ABIS="3.*"
 inherit git-2 distutils
 
 DESCRIPTION="Icinga libraries for Python and a commandline tool called icl"
-HOMEPAGE="https://github.com/hyves-org/ics"
+HOMEPAGE="https://github.com/hyves-org/icl"
 EGIT_REPO_URI="https://github.com/hyves-org/icl.git"
 EGIT_COMMIT="840e4936fb"
 
